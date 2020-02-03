@@ -35,4 +35,4 @@ rackup -p 4567
 
 ## Authors
 
-* **Bénédicte Diumula** - *THP* 
+* **Bénédicte Diumula** - *Moussaillonne THP* 
